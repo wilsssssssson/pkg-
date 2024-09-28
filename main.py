@@ -1,6 +1,6 @@
 # "@File    :   pkg解包自动化,
 # "@Time    :   2024/9/30,
-# "@Author  :   wilsonH ",
+# "@Author  :   wilsssssssson ",
 # "@Version :   1.0",
 # "@Contact :   betterWL@hotmail.com"    
 from config import TARGET_FILE_FOLDER,SOURCE_FILE_FOLDER,LAST_RUN_TIME,PKG_UNPACK_FILE_PATH
