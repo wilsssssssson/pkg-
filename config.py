@@ -1,0 +1,4 @@
+TARGET_FILE_FOLDER='你的壁纸路径'
+SOURCE_FILE_FOLDER='你的wallpaper应用路径'
+PKG_UNPACK_FILE_PATH='你的解包应用路径'
+LAST_RUN_TIME = 0
